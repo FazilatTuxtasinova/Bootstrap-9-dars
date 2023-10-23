@@ -1,0 +1,51 @@
+.text1{
+    color: midnightblue;
+}
+.box1{
+    background-color: #150379;
+}
+.text2{
+    color: white !important;
+}
+.left{
+    position: relative;
+}
+.color{
+    background-color: #40eebd;
+}
+.color1{
+    border: 1px solid #4bf1c2;
+}
+.color3{
+    background-color: midnightblue;
+}
+.color4{
+    border: 1px solid midnightblue;
+}
+.btn1{
+    background-color: #cdcccc;
+}
+.btn2{
+    background-color: midnightblue;
+}
+.btn3{
+    background-color: #4bf1c2;
+}
+.btn4{
+    background-color: #ffb836;
+}
+.btn5{
+    background-color: orangered;
+}
+.with{
+    width: 600px;
+    position: relative;
+    top: -50px;
+}
+.btnn{
+    background-color: dodgerblue;
+}
+
+
+
+

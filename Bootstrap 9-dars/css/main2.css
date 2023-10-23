@@ -1,0 +1,33 @@
+
+.h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.learn{
+    background: linear-gradient(0deg,blue,dodgerblue);
+    color: white;
+    position: relative;
+    bottom: 30px;
+}
+.h1h{
+    font-size: 50px;
+}
+.btnn{
+    z-index: 1;
+    position: relative;
+    top: -40px;
+    left: 970px;
+    border-radius: 20px;
+    width: 130px;
+    height: 130px;
+    background: linear-gradient(40deg,#00001c, #5a015a);
+}
+.text1{
+    position: relative;
+    top: -20px;
+    font-size: 120px;
+}
+.mtt{
+    position: relative;
+    top: -110px;
+}
